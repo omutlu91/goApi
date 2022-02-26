@@ -2,9 +2,9 @@
 
 + Get
     + localhost:8888/api/get/1
-+ Add
++ Add (Post)
     + localhost:8888/api/add?key=ozgemutlu
-+ Flush
++ Flush (Put)
     + localhost:8888/api/flush
 
 # run project
